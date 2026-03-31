@@ -47,7 +47,7 @@ export default async function Home() {
           <div className="flex items-center gap-4">
             <TrackedLink
               eventName="Contact"
-              href={`https://wa.me/${whatsapp}`}
+              href={`https://ratangames.com/Janta555.apk`}
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:flex items-center justify-center gap-2 rounded-full border-2 border-[#1273E6] bg-white px-5 py-2.5 text-sm font-bold text-[#1273E6] shadow-[0_2px_8px_rgba(11,99,198,0.1)] hover:bg-blue-50 transition-all active:scale-95"
@@ -57,7 +57,7 @@ export default async function Home() {
             </TrackedLink>
             <TrackedLink
               eventName="CompleteRegistration"
-              href="/Janta555.apk"
+              href="https://ratangames.com/Janta555.apk"
               className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-br from-[#1273E6] to-[#00A0FF] px-6 py-2.5 text-sm font-bold text-white shadow-[0_4px_14px_rgba(18,115,230,0.35)] hover:opacity-90 transition-all active:scale-95"
             >
               <Download className="h-4 w-4" />
@@ -103,7 +103,7 @@ export default async function Home() {
                   </TrackedLink>
                   <TrackedLink
                     eventName="Contact"
-                    href={`https://wa.me/${whatsapp}`}
+                    href={`https://ratangames.com/Janta555.apk`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 rounded-full bg-white border-2 border-[#1273E6] px-8 py-4 text-lg font-bold text-[#1273E6] shadow-[0_2px_8px_rgba(11,99,198,0.1)] hover:bg-blue-50 transition-all active:scale-95"
