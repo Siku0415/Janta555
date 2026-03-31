@@ -1,0 +1,864 @@
+`modulepreload`
+`link[rel="modulepreload"]`
+`childList`
+`use-credentials`
+`anonymous`
+`same-origin`
+`react.transitional.element`
+`react.portal`
+`react.fragment`
+`react.strict_mode`
+`react.profiler`
+`react.consumer`
+`react.context`
+`react.forward_ref`
+`react.suspense`
+`react.memo`
+`react.lazy`
+`react.activity`
+`@@iterator`
+`forceUpdate`
+`fulfilled`
+`undefined`
+`Objects are not valid as a React child (found: `
+`[object Object]`
+`object with keys {`
+`). If you meant to render a collection of children, use an array instead.`
+`uncaughtException`
+`React.Children.only expected to receive a single React element child.`
+`The argument must be a React element, but you passed `
+`forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported`
+`https://react.dev/errors/`
+`Minified React error #`
+` for the full message or use the non-minified dev environment for full errors and additional helpful warnings.`
+`react.element`
+`react.suspense_list`
+`react.memo_cache_sentinel`
+`react.client.reference`
+`StrictMode`
+`SuspenseList`
+`.Consumer`
+`ForwardRef`
+`ForwardRef(`
+` (<anonymous>)`
+`@unknown:0:0`
+`DetermineComponentFrameRoot`
+`<anonymous>`
+`Suspense Fallback`
+`
+Error generating stack: `
+`__reactFiber$`
+`__reactProps$`
+`__reactContainer$`
+`__reactEvents$`
+`__reactListeners$`
+`__reactHandles$`
+`__reactResources$`
+`__reactMarker$`
+`^[:A-Z_a-z\\u00C0-\\u00D6\\u00D8-\\u00F6\\u00F8-\\u02FF\\u0370-\\u037D\\u037F-\\u1FFF\\u200C-\\u200D\\u2070-\\u218F\\u2C00-\\u2FEF\\u3001-\\uD7FF\\uF900-\\uFDCF\\uFDF0-\\uFFFD][:A-Z_a-z\\u00C0-\\u00D6\\u00D8-\\u00F6\\u00F8-\\u02FF\\u0370-\\u037D\\u037F-\\u1FFF\\u200C-\\u200D\\u2070-\\u218F\\u2C00-\\u2FEF\\u3001-\\uD7FF\\uF900-\\uFDCF\\uFDF0-\\uFFFD\\-.0-9\\u00B7\\u0300-\\u036F\\u203F-\\u2040]*$`
+`animationIterationCount aspectRatio borderImageOutset borderImageSlice borderImageWidth boxFlex boxFlexGroup boxOrdinalGroup columnCount columns flex flexGrow flexPositive flexShrink flexNegative flexOrder gridArea gridRow gridRowEnd gridRowSpan gridRowStart gridColumn gridColumnEnd gridColumnSpan gridColumnStart fontWeight lineClamp lineHeight opacity order orphans scale tabSize widows zIndex zoom fillOpacity floodOpacity stopOpacity strokeDasharray strokeDashoffset strokeMiterlimit strokeOpacity strokeWidth MozAnimationIterationCount MozBoxFlex MozBoxFlexGroup MozLineClamp msAnimationIterationCount msFlex msZoom msFlexGrow msFlexNegative msFlexOrder msFlexPositive msFlexShrink msGridColumn msGridColumnSpan msGridRow msGridRowSpan WebkitAnimationIterationCount WebkitBoxFlex WebKitBoxFlexGroup WebkitBoxOrdinalGroup WebkitColumnCount WebkitColumns WebkitFlex WebkitFlexGrow WebkitFlexPositive WebkitFlexShrink WebkitLineClamp`
+`annotation-xml`
+`color-profile`
+`font-face`
+`font-face-src`
+`font-face-uri`
+`font-face-format`
+`font-face-name`
+`missing-glyph`
+`acceptCharset`
+`accept-charset`
+`httpEquiv`
+`http-equiv`
+`crossOrigin`
+`crossorigin`
+`accentHeight`
+`accent-height`
+`alignmentBaseline`
+`alignment-baseline`
+`arabicForm`
+`arabic-form`
+`baselineShift`
+`baseline-shift`
+`capHeight`
+`cap-height`
+`clip-path`
+`clip-rule`
+`colorInterpolation`
+`color-interpolation`
+`colorInterpolationFilters`
+`color-interpolation-filters`
+`colorProfile`
+`colorRendering`
+`color-rendering`
+`dominantBaseline`
+`dominant-baseline`
+`enableBackground`
+`enable-background`
+`fillOpacity`
+`fill-opacity`
+`fill-rule`
+`floodColor`
+`flood-color`
+`floodOpacity`
+`flood-opacity`
+`fontFamily`
+`font-family`
+`font-size`
+`fontSizeAdjust`
+`font-size-adjust`
+`fontStretch`
+`font-stretch`
+`fontStyle`
+`font-style`
+`fontVariant`
+`font-variant`
+`fontWeight`
+`font-weight`
+`glyphName`
+`glyph-name`
+`glyphOrientationHorizontal`
+`glyph-orientation-horizontal`
+`glyphOrientationVertical`
+`glyph-orientation-vertical`
+`horizAdvX`
+`horiz-adv-x`
+`horizOriginX`
+`horiz-origin-x`
+`imageRendering`
+`image-rendering`
+`letterSpacing`
+`letter-spacing`
+`lightingColor`
+`lighting-color`
+`markerEnd`
+`marker-end`
+`markerMid`
+`marker-mid`
+`markerStart`
+`marker-start`
+`overlinePosition`
+`overline-position`
+`overlineThickness`
+`overline-thickness`
+`paintOrder`
+`paint-order`
+`pointerEvents`
+`pointer-events`
+`renderingIntent`
+`rendering-intent`
+`shapeRendering`
+`shape-rendering`
+`stopColor`
+`stop-color`
+`stopOpacity`
+`stop-opacity`
+`strikethroughPosition`
+`strikethrough-position`
+`strikethroughThickness`
+`strikethrough-thickness`
+`strokeDasharray`
+`stroke-dasharray`
+`strokeDashoffset`
+`stroke-dashoffset`
+`strokeLinecap`
+`stroke-linecap`
+`strokeLinejoin`
+`stroke-linejoin`
+`strokeMiterlimit`
+`stroke-miterlimit`
+`strokeOpacity`
+`stroke-opacity`
+`strokeWidth`
+`stroke-width`
+`textAnchor`
+`text-anchor`
+`textDecoration`
+`text-decoration`
+`textRendering`
+`text-rendering`
+`transformOrigin`
+`transform-origin`
+`underlinePosition`
+`underline-position`
+`underlineThickness`
+`underline-thickness`
+`unicodeBidi`
+`unicode-bidi`
+`unicodeRange`
+`unicode-range`
+`unitsPerEm`
+`units-per-em`
+`vAlphabetic`
+`v-alphabetic`
+`v-hanging`
+`vIdeographic`
+`v-ideographic`
+`vMathematical`
+`v-mathematical`
+`vectorEffect`
+`vector-effect`
+`vert-adv-y`
+`vertOriginX`
+`vert-origin-x`
+`vertOriginY`
+`vert-origin-y`
+`wordSpacing`
+`word-spacing`
+`writingMode`
+`writing-mode`
+`xmlnsXlink`
+`xmlns:xlink`
+`javascript:throw new Error('React has blocked a javascript: URL as a security precaution.')`
+`input[name="`
+`"][type="radio"]`
+`onClickCapture`
+`onDoubleClick`
+`onDoubleClickCapture`
+`onMouseDown`
+`onMouseDownCapture`
+`onMouseMove`
+`onMouseMoveCapture`
+`onMouseUp`
+`onMouseUpCapture`
+`onMouseEnter`
+`movementX`
+`mousemove`
+`movementY`
+`clipboardData`
+`ArrowLeft`
+`ArrowRight`
+`ArrowDown`
+`ContextMenu`
+`ScrollLock`
+`Unidentified`
+`Backspace`
+`wheelDeltaX`
+`wheelDeltaY`
+`wheelDelta`
+`CompositionEvent`
+`documentMode`
+`TextEvent`
+`mousedown`
+`compositionend`
+`textInput`
+`onpropertychange`
+`selectionchange`
+`selectionStart`
+`Animation`
+`AnimationEnd`
+`AnimationIteration`
+`AnimationStart`
+`Transition`
+`TransitionRun`
+`TransitionStart`
+`TransitionCancel`
+`TransitionEnd`
+`AnimationEvent`
+`TransitionEvent`
+`animationend`
+`animationiteration`
+`animationstart`
+`transitionrun`
+`transitionstart`
+`transitioncancel`
+`transitionend`
+`abort auxClick beforeToggle cancel canPlay canPlayThrough click close contextMenu copy cut drag dragEnd dragEnter dragExit dragLeave dragOver dragStart drop durationChange emptied encrypted ended error gotPointerCapture input invalid keyDown keyPress keyUp load loadedData loadedMetadata loadStart lostPointerCapture mouseDown mouseMove mouseOut mouseOver mouseUp paste pause play playing pointerCancel pointerDown pointerMove pointerOut pointerOver pointerUp progress rateChange reset resize seeked seeking stalled submit suspend timeUpdate touchCancel touchEnd touchStart volumeChange scroll toggle touchMove waiting wheel`
+`scrollEnd`
+`beforetoggle`
+`scrollend`
+`backwards`
+`unstable_legacy-backwards`
+`stylesheet`
+`collapsed`
+`http://www.w3.org/2000/svg`
+`http://www.w3.org/1998/Math/MathML`
+`<script><\/script>`
+`head > title`
+`important`
+`Throttled`
+`formAction`
+`onAnimationEnd`
+`onAnimationIteration`
+`onAnimationStart`
+`onTransitionRun`
+`onTransitionStart`
+`onTransitionCancel`
+`onTransitionEnd`
+`mouseover`
+`onMouseLeave`
+`onPointerEnter`
+`pointerout`
+`pointerover`
+`onPointerLeave`
+`change click focusin focusout input keydown keyup selectionchange`
+`focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange`
+`onBeforeInput`
+`onCompositionEnd`
+`compositionend focusout keydown keypress keyup mousedown`
+`onCompositionStart`
+`compositionstart focusout keydown keypress keyup mousedown`
+`onCompositionUpdate`
+`compositionupdate focusout keydown keypress keyup mousedown`
+`abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange resize seeked seeking stalled suspend timeupdate volumechange waiting`
+`beforetoggle cancel close invalid load scroll scrollend toggle`
+`_reactListening`
+`touchstart`
+`touchmove`
+`beforeblur`
+`afterblur`
+`contextmenu`
+`dragenter`
+`dragleave`
+`dragstart`
+`touchcancel`
+`gotpointercapture`
+`lostpointercapture`
+`pointercancel`
+`pointerdown`
+`pointermove`
+`pointerup`
+`compositionstart`
+`compositionupdate`
+`beforeinput`
+`className`
+`javascript:throw new Error('A React form was unexpectedly submitted. If you called form.submit() manually, consider using form.requestSubmit() instead. If you\\'re trying to use event.stopPropagation() in a submit event handler, consider also calling event.preventDefault().')`
+`formEncType`
+`formMethod`
+`formTarget`
+`onScrollEnd`
+`dangerouslySetInnerHTML`
+`suppressContentEditableWarning`
+`suppressHydrationWarning`
+`defaultValue`
+`defaultChecked`
+`innerHTML`
+`autoFocus`
+`xlinkHref`
+`xlink:href`
+`http://www.w3.org/1999/xlink`
+`contentEditable`
+`spellCheck`
+`draggable`
+`autoReverse`
+`externalResourcesRequired`
+`focusable`
+`preserveAlpha`
+`allowFullScreen`
+`disablePictureInPicture`
+`disableRemotePlayback`
+`formNoValidate`
+`noValidate`
+`playsInline`
+`itemScope`
+`xlinkActuate`
+`xlink:actuate`
+`xlinkArcrole`
+`xlink:arcrole`
+`xlinkRole`
+`xlink:role`
+`xlinkShow`
+`xlink:show`
+`xlinkTitle`
+`xlink:title`
+`xlinkType`
+`xlink:type`
+`http://www.w3.org/XML/1998/namespace`
+`xml:space`
+`innerText`
+`textContent`
+`foreignObject`
+`data-precedence`
+`DOMContentLoaded`
+`link[rel="`
+`"][href="`
+`[crossorigin="`
+`dns-prefetch`
+`preconnect`
+`link[rel="preload"][as="`
+`[imagesrcset="`
+`[imagesizes="`
+`link[rel="modulepreload"][as="`
+`audioworklet`
+`paintworklet`
+`serviceworker`
+`sharedworker`
+`link[rel="stylesheet"][`
+`link[rel="preload"][as="style"][`
+`script[async]`
+`style[data-href~="`
+`link[rel="stylesheet"][data-precedence],style[data-precedence]`
+`link[data-precedence],style[data-precedence]`
+`ratechange`
+`volumechange`
+`fullscreenchange`
+`hashchange`
+`selectstart`
+`mouseenter`
+`mouseleave`
+`pointerenter`
+`pointerleave`
+`mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset`
+`react-transition`
+`navigatesuccess`
+`navigateerror`
+`react-dom`
+`DataCloneError`
+`No window.location.(origin|href) available to create URL for href: `
+`A history only accepts one active listener`
+`Absolute route path "`
+`" nested under path `
+`" is not valid. An absolute child route path `
+`must start with the combined path of all its parent routes.`
+`Index routes must not have child routes. Please remove `
+`all child routes from route path "`
+`Route path "`
+`" will be treated as if it were `
+`please change the route path to "`
+`/?([^\\/]+)?`
+`/([^\\/]+)`
+`(?:\\/(.+)|\\/*)$`
+`(?:(?=\\/|$))`
+`The URL path "`
+`" could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent `
+`encoding (`
+`Pathnames cannot have embedded double slashes - normalizing `
+`Cannot include a '`
+`' character in a manually specified `
+`].  Please separate it out to the `
+`a string in <Link to="..."> and the router will parse it for you.`
+`Unexpected Application Error!`
+`rgba(200,200,200, 0.5)`
+`React Router caught the following error during render`
+`route-fallback`
+`HydrateFallback`
+`useBlocker`
+`useRevalidator`
+`useNavigate`
+`useLoaderData`
+`useActionData`
+`useRouteError`
+`useNavigation`
+`useRouteLoaderData`
+`useMatches`
+`useRouteId`
+`For more information, see `
+`v7_startTransition`
+`React.startTransition`
+`https://reactrouter.com/v6/upgrading/future#v7_starttransition`
+`v7_relativeSplatPath`
+`Relative route resolution within Splat routes is changing in v7`
+`https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath`
+`v7_fetcherPersist`
+`The persistence behavior of fetchers is changing in v7`
+`https://reactrouter.com/v6/upgrading/future#v7_fetcherpersist`
+`v7_normalizeFormMethod`
+`https://reactrouter.com/v6/upgrading/future#v7_normalizeformmethod`
+`v7_partialHydration`
+`RouterProvider`
+`https://reactrouter.com/v6/upgrading/future#v7_partialhydration`
+`v7_skipActionErrorRevalidation`
+`https://reactrouter.com/v6/upgrading/future#v7_skipactionerrorrevalidation`
+`reloadDocument`
+`preventScrollReset`
+`viewTransition`
+`useScrollRestoration`
+`useSubmit`
+`useSubmitFetcher`
+`useFetcher`
+`useViewTransitionState`
+`useFetchers`
+`91${t.slice(1)}`
+`[${e}="true"]`
+`text/html`
+`data-public-seo`
+`data-public-tracking`
+`https://janta123public.site/api/public_data`
+`Failed to load public data (${t.status})`
+`AbortError`
+`usePublicData must be used within a PublicDataProvider`
+`M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4`
+`7,10 12,15 17,10`
+`0 0 24 24`
+`currentColor`
+`M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z`
+`9,18 15,12 9,6`
+`12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26`
+`M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z`
+`12,6 12,12 16,14`
+`M6 9H4.5a2.5 2.5 0 0 1 0-5H6`
+`M18 9h1.5a2.5 2.5 0 0 0 0-5H18`
+`M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22`
+`M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22`
+`M18 2H6v7a6 6 0 0 0 12 0V2Z`
+`M12 21v-6`
+`M12 15c-1.6 1.6-4.4 1.2-5.6-.8-1.2-2 .1-4.6 2.4-5 0-2.2 2-4 4.4-4`
+`M12 15c1.6 1.6 4.4 1.2 5.6-.8 1.2-2-.1-4.6-2.4-5 0-2.2-2-4-4.4-4`
+`M12 15c-1.6 1.6-4.4 1.2-5.6-.8-1.2-2 .1-4.6 2.4-5 0-2.2 2-4 4.4-4 2.4 0 4.4 1.8 4.4 4 2.3.4 3.6 3 2.4 5-1.2 2-4 2.4-5.6.8Z`
+`M22 11.08V12a10 10 0 1 1-5.93-9.14`
+`22,4 12,14.01 9,11.01`
+`/logo.png`
+`linear-gradient(135deg, #1273E6 0%, #00A0FF 100%)`
+`0 4px 14px rgba(18, 115, 230, 0.35)`
+`2px solid #1273E6`
+`0 2px 8px rgba(11, 99, 198, 0.1)`
+`linear-gradient(135deg, #FFC857 0%, #FFD97A 100%)`
+`0 4px 14px rgba(255, 200, 87, 0.4)`
+`transparent`
+`underline`
+`0.5rem 1rem`
+`0.9375rem`
+`0.875rem 1.75rem`
+`1rem 2rem`
+`not-allowed`
+`inline-flex`
+`var(--font-heading)`
+`all 0.3s ease`
+`2px solid rgba(255,255,255,0.3)`
+`spin 1s linear infinite`
+`Loading...`
+`/#markets`
+`0 4px 20px rgba(0, 0, 0, 0.08)`
+`0 2px 10px rgba(0, 0, 0, 0.05)`
+`0.75rem 0`
+`1.25rem 0`
+`space-between`
+`Download APK`
+`lg-hidden`
+`Toggle menu`
+`fadeIn 0.3s ease`
+`1px solid #E8F4FE`
+`0.75rem 1rem`
+`container-main`
+`/page/${encodeURIComponent(String(e))}`
+`/Janta555.apk`
+`100% Secure`
+`Safe Payments`
+`Instant Payouts`
+`Within Minutes`
+`Best Rates`
+`Guaranteed`
+`linear-gradient(135deg, #08346E 0%, #0A52A3 30%, #1273E6 55%, #00A0FF 100%)`
+`
+              radial-gradient(circle at 0% 0%, rgba(255,255,255,0.18) 0%, rgba(255,255,255,0) 55%),
+              radial-gradient(circle at 100% 0%, rgba(255,200,87,0.22) 0%, rgba(255,200,87,0) 55%),
+              linear-gradient(120deg, rgba(255,255,255,0.08) 0px, rgba(255,255,255,0.08) 1px, transparent 1px),
+              linear-gradient(300deg, rgba(7,59,117,0.35) 0px, rgba(7,59,117,0.35) 1px, transparent 1px)
+            `
+`100% 100%, 100% 100%, 180px 180px, 220px 220px`
+`
+              radial-gradient(circle at 18% 22%, rgba(0,160,255,0.35) 0%, transparent 55%),
+              radial-gradient(circle at 82% 78%, rgba(255,200,87,0.25) 0%, transparent 60%),
+              linear-gradient(180deg, rgba(7,59,117,0) 0%, rgba(7,59,117,0.45) 100%)
+            `
+`linear-gradient(45deg, rgba(255,255,255,0.04) 25%, transparent 25%, transparent 75%, rgba(255,255,255,0.04) 75%), linear-gradient(45deg, rgba(255,255,255,0.04) 25%, transparent 25%, transparent 75%, rgba(255,255,255,0.04) 75%)`
+`34px 34px, 34px 34px`
+`0 0, 17px 17px`
+`radial-gradient(circle, rgba(255,255,255,0.35) 0%, transparent 68%)`
+`radial-gradient(circle, rgba(255,200,87,0.35) 0%, transparent 70%)`
+`1px solid rgba(255,255,255,0.2)`
+`0 0 60px rgba(255,255,255,0.15)`
+`1px solid rgba(255,255,255,0.12)`
+`0 0 50px rgba(0,160,255,0.2)`
+`0 0 1440 120`
+`M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z`
+`repeat(1, 1fr)`
+`flex-start`
+`hero-badge`
+`fit-content`
+`rgba(255,255,255,0.15)`
+`blur(8px)`
+`rgba(255,255,255,0.95)`
+`animate-pulse`
+`100% Trusted & Fair`
+`clamp(2.5rem, 6vw, 4rem)`
+`India's Most Trusted`
+`Matka Application`
+`clamp(1rem, 2vw, 1.25rem)`
+`rgba(255,255,255,0.85)`
+`Play Matka safely with real-time updates and instant payouts. Best Market Rates`
+`https://ratangames.com/Janta555.apk`
+`0.875rem 1.5rem`
+`rgba(255,255,255,0.1)`
+`1px solid rgba(255,255,255,0.25)`
+`sm-flex-row flex-center lg-justify-start`
+`WhatsApp Support`
+`repeat(3, 1fr)`
+`lg-text-left`
+`/model.png`
+`Win big with Janta555`
+`translateX(-50%)`
+`radial-gradient(circle, rgba(8,52,110,0.65) 0%, rgba(8,52,110,0) 65%)`
+`blur(28px)`
+`lg-grid-2`
+`lg-items-start lg-text-left`
+`rgba(255,255,255,0.6)`
+`rgba(255,255,255,0.8)`
+`0.625rem 1.25rem`
+`all 0.2s ease`
+`rgba(255, 255, 255, 0.85)`
+`blur(12px)`
+`1px solid rgba(255, 255, 255, 0.3)`
+`1px solid #EEF5FC`
+`0 4px 20px rgba(11, 99, 198, 0.08), 0 1px 3px rgba(0,0,0,0.04)`
+`Single Patti`
+`Double Patti`
+`Triple Patti`
+`Half Sangam`
+`Full Sangam`
+`Matka Rates`
+`Standard market betting rates`
+`Starline Rates`
+`Premium starline market rates`
+`Jackpot Rates`
+`High-reward jackpot rates`
+`repeat(1, minmax(0, 1fr))`
+`sm-grid-2 lg-grid-3`
+`section-padding bg-mesh`
+`rgba(144, 201, 251, 0.3)`
+`blur(48px)`
+`translateY(-50%)`
+`rgba(255, 200, 87, 0.2)`
+`translateY(50%)`
+`inline-block`
+`0.375rem 1rem`
+`Transparent Rates`
+`clamp(1.875rem, 5vw, 3rem)`
+`Best Rates in the `
+`We offer the most competitive rates with guaranteed payouts. Check our rate chart below.`
+`!p-0 overflow-hidden`
+`Loading rates...`
+`Failed to load rates.`
+`linear-gradient(to right, #1273E6, #0A52A3)`
+`linear-gradient(180deg, rgba(255,255,255,0.9) 0%, rgba(255,255,255,1) 100%)`
+`0 10px 25px rgba(10, 82, 163, 0.08)`
+`transform 0.15s ease, box-shadow 0.15s ease`
+`hover-lift`
+`1px solid rgba(18,115,230,0.08)`
+`0.5rem 0.75rem`
+`${e.type}-${t}`
+`0.375rem 0.75rem`
+`0 0 20 20`
+`M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z`
+`Guaranteed Payouts`
+`M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z`
+`Instant Withdrawal`
+`M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z`
+`Best Market Rates`
+`0.125rem 0.625rem`
+`uppercase`
+`market-row-result sm-market-row-result`
+`Jodi Chart`
+`Panel Chart`
+`market-row-charts sm-market-row-charts`
+`market-row-play sm-market-row-play`
+`market-row-actions sm-market-row-actions`
+`market-row-right sm-market-row-right`
+`sm-flex-row`
+`/chart/jodi/${encodeURIComponent(t)}`
+`/chart/panel/${encodeURIComponent(t)}`
+`url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%230B63C6' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`
+`Live Markets`
+`Market Results`
+`Real-time results from all major markets. Click on any market to view charts or download our app to play.`
+`Loading market results...`
+`Failed to load market results.`
+`No market data available.`
+`View all markets`
+`section-padding`
+`linear-gradient(180deg, #F7FBFF 0%, white 100%)`
+`rgba(255, 200, 87, 0.1)`
+`rgba(34, 147, 247, 0.1)`
+`lg-grid-1`
+`linear-gradient(135deg, #FFD97A 0%, #FFC857 100%)`
+`Starline Results`
+`Updated every hour`
+`Loading starline results...`
+`Failed to load starline results.`
+`repeat(4, 1fr)`
+`1px solid #DBE8F4`
+`View Starline Chart`
+`Jackpot Results`
+`Loading jackpot results...`
+`Failed to load jackpot results.`
+`View Jackpot Chart`
+`clamp(1.05rem, 3.5vw, 1.5rem)`
+`100% Secure Platform`
+`Bank-grade encryption protects all your transactions and personal data.`
+`Licensed & Regulated`
+`Fully compliant with all applicable laws and regulations.`
+`24/7 Support`
+`Our dedicated team is always ready to help you anytime.`
+`Withdraw your winnings instantly to your bank account.`
+`Registered Company`
+`CIN: U74999XX2024PTCXXXXXX`
+`License Number`
+`Gaming License: GL/2024/XXXXX`
+`SSL Certificate`
+`256-bit Encryption Active`
+`India's Most `
+` Matka Platform`
+`Janta555 has been serving players across India since 2020, providing a secure, fair, and transparent platform for Satta Matka enthusiasts. Our commitment to responsible gaming and customer satisfaction has made us the preferred choice for thousands of players.`
+`We pride ourselves on offering the best rates in the market, instant payouts, and round-the-clock customer support. Your trust and security are our top priorities.`
+`clamp(1.875rem, 4vw, 2.5rem)`
+`Active Users`
+`User Rating`
+`sm-grid-2`
+`monospace`
+`linear-gradient(135deg, #C7E4FD 0%, #E8F4FE 100%)`
+`Real-time live results`
+`Instant deposits & withdrawals`
+`Best market rates guaranteed`
+`24/7 customer support`
+`Secure & encrypted`
+`No registration required`
+`linear-gradient(135deg, #0A52A3 0%, #1273E6 50%, #073B75 100%)`
+`rgba(255,255,255,0.05)`
+`radial-gradient(circle at 2px 2px, white 1px, transparent 0)`
+`32px 32px`
+`0 0 1440 100`
+`M0 100V60C240 20 480 0 720 0C960 0 1200 20 1440 60V100H0Z`
+`rgba(255,255,255,0.9)`
+`Version 2.5 Available`
+`Download the `
+`Get instant access to live results, play your favorite markets, and withdraw winnings directly to your bank account. Available for Android devices.`
+`download-features`
+`repeat(2, 1fr)`
+`Safe & Secure Download`
+`M17.6 11.5c-.1-3.4-2.8-6.2-6.2-6.2S5.2 8.1 5.1 11.5L4 13v2h1v4h14v-4h1v-2l-1.4-1.5zM8 18v-4h8v4H8zm9-6H7v-.5c0-2.8 2.2-5 5-5s5 2.2 5 5v.5z`
+`Malware Free`
+`M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z`
+`Verified Publisher`
+`lg-justify-start`
+`M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z`
+`50K+ Downloads`
+`linear-gradient(135deg, rgba(255, 200, 87, 0.4), rgba(89, 174, 249, 0.4))`
+`scale(0.9)`
+`0 25px 50px -12px rgba(0, 0, 0, 0.25)`
+`linear-gradient(135deg, #2293F7 0%, #0A52A3 100%)`
+`0.75rem 1.5rem`
+`ðŸ”‹ 100%`
+`1rem 1.25rem`
+`Welcome back!`
+`rgba(255,255,255,0.2)`
+`0 1.25rem`
+`Wallet Balance`
+`â‚¹12,450`
+`+â‚¹2,500`
+`Add Money`
+`1.5rem 1.5rem 0 0`
+`Live Results`
+`MAIN BAZAR`
+`0 10px 25px rgba(255, 200, 87, 0.4)`
+`lg-justify-end`
+`animate-float`
+`animate-bounce-subtle`
+`rotate(180deg)`
+`download-feature-pill`
+`/page/about_us`
+`Help Center`
+`Contact Us`
+`Terms and condition`
+`/page/terms_and_condition`
+`Privacy Policy`
+`/page/privacy_policy`
+`M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z`
+`Instagram`
+`M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z`
+`https://wa.me/${e}`
+`+${e.slice(0,2)} ${e.slice(2,7)} ${e.slice(7)}`
+`color 0.2s`
+`url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`
+`brightness(0) invert(1)`
+`India's most trusted platform for Satta Matka. Play responsibly with guaranteed payouts and 24/7 support.`
+`noopener noreferrer`
+`lg-col-span-1`
+`Quick Links`
+`M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z`
+`support@Janta555.com`
+`md-grid-4`
+`1px solid #1A2330`
+`M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z`
+`SSL Secured`
+`Registered under Public Gambling Act`
+`License No: GL/2024/XXXXX`
+` Janta555. All rights reserved.`
+`Disclaimer:`
+` This website is intended for users above 18 years of age only. Gambling involves financial risk and can be addictive. Please play responsibly. Janta555 is not responsible for any financial losses incurred through the use of this platform. By using our services, you acknowledge that you understand and accept these risks.`
+`91987654321`
+`https://ratangames.com/Janta555.apk?text=Hi, I need help with Janta555`
+`Need Help?`
+`Chat with us on WhatsApp for instant support!`
+`rotate(45deg)`
+`linear-gradient(135deg, #25D366 0%, #128C7E 100%)`
+`0 8px 25px rgba(37, 211, 102, 0.4)`
+`animate-ping`
+`Contact us on WhatsApp`
+`min-h-screen bg-neutral-50`
+`${String(e.getDate()).padStart(2,`
+`)}/${String(e.getMonth()+1).padStart(2,`
+`)}/${e.getFullYear()}`
+`${e.getFullYear()}-${String(e.getMonth()+1).padStart(2,`
+`)}-${String(e.getDate()).padStart(2,`
+`https://janta123public.site/api/chart-data?market=${encodeURIComponent(t??`
+`Failed to load chart data (${n.status})`
+`${g} | ${e}`
+` Panel Penal Chart Patti Panna Panel Pana Single Double Triple Patta Record Old History Historical Data Results Old Chart Online Live Book`
+`Go to Bottom`
+`Loading chart...`
+`Failed to load chart.`
+`clamp(0.7rem, 1vw, 0.95rem)`
+`break-word`
+`clamp(0.6rem, 0.95vw, 0.9rem)`
+`${Dr}${Dr}`
+`Go to Top`
+`${u} | ${e}`
+`https://janta123public.site/api/content-data?content_key=${encodeURIComponent(e??`
+`Failed to load content (${n.status})`
+`Failed to load content.`
+`0.9rem 1.25rem`
+`1px solid #F1F7FD`
+`Charts | ${e}`
+`Select a market to open its chart`
+`Loading charts...`
+`Failed to load charts.`
+`Main markets`
+`Starline Chart`
+`Opens panel chart`
+`Jackpot Chart`
+`Opens jodi chart`
+`Time ${e.time}`
+`/chart/jodi/${encodeURIComponent(e.key)}`
+`/chart/panel/${encodeURIComponent(e.key)}`
+`Open ${e.open} â€¢ Close ${e.close}`
+`Main market`
+`No markets found.`
+`/chart/jodi/:market`
+`/chart/panel/:market`
+`/page/:contentKey`
+'React has blocked a javascript: URL as a security precaution.'
+'A React form was unexpectedly submitted. If you called form.submit() manually, consider using form.requestSubmit() instead. If you\\'
+'0 0 60 60'
+'http://www.w3.org/2000/svg'
+'%230B63C6'
+'M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'
+'%23ffffff'
+"modulepreload"
+"]`,typeof n==`string`&&(i+=`[crossorigin="
+"]`;t===`image`&&n&&n.imageSrcSet?(i+=`[imagesrcset="
+"]`,typeof n.imageSizes==`string`&&(i+=`[imagesizes="
+"]`)):i+=`[href="
+" nested under path `+(`"
+" is not valid. An absolute child route path `)+`must start with the combined path of all its parent routes.`),o.relativePath=o.relativePath.slice(r.length));let s=be([r,o.relativePath]),c=n.concat(o);e.children&&e.children.length>0&&(C(e.index!==!0,`Index routes must not have child routes. Please remove `+(`all child routes from route path "
+" will be treated as if it were `+(`"
+" because the `*` character must ')+"
+"+(`please change the route path to "
+"+JSON.stringify(r)+`].  Please separate it out to the `)+("
+")+`a string in <Link to="
+",`https://reactrouter.com/v6/upgrading/future#v7_starttransition`),e?.v7_relativeSplatPath===void 0&&(!t||t.v7_relativeSplatPath===void 0)&&rt(`v7_relativeSplatPath`,`Relative route resolution within Splat routes is changing in v7`,`https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath`),t&&(t.v7_fetcherPersist===void 0&&rt(`v7_fetcherPersist`,`The persistence behavior of fetchers is changing in v7`,`https://reactrouter.com/v6/upgrading/future#v7_fetcherpersist`),t.v7_normalizeFormMethod===void 0&&rt(`v7_normalizeFormMethod`,"
+",`https://reactrouter.com/v6/upgrading/future#v7_normalizeformmethod`),t.v7_partialHydration===void 0&&rt(`v7_partialHydration`,"
+",`https://reactrouter.com/v6/upgrading/future#v7_partialhydration`),t.v7_skipActionErrorRevalidation===void 0&&rt(`v7_skipActionErrorRevalidation`,"
+":{Icon:Yt,accent:`#7C3AED`,bg:`#F3E8FF`},"
+":{Icon:Xt,accent:`#B91C1C`,bg:`#FEE2E2`},"
+":{Icon:Zt,accent:`#0F766E`,bg:`#CCFBF1`},"
+":{Icon:Qt,accent:`#92400E`,bg:`#FEF3C7`},"
+")`}})}),t[5]=f,t[6]=p):(f=t[5],p=t[6]);let m,h;t[7]===Symbol.for(`react.memo_cache_sentinel`)?(m={position:`relative`},h={padding:`4rem 0`,display:`grid`,gridTemplateColumns:`repeat(2, 1fr)`,gap:`2rem`},t[7]=m,t[8]=h):(m=t[7],h=t[8]);let g;t[9]===Symbol.for(`react.memo_cache_sentinel`)?(g={gridColumn:`span 2`},t[9]=g):g=t[9];let _;t[10]===Symbol.for(`react.memo_cache_sentinel`)?(_={marginBottom:`1.5rem`},t[10]=_):_=t[10];let v,y,b;t[11]===Symbol.for(`react.memo_cache_sentinel`)?(v=(0,B.jsx)(`div`,{style:_,children:(0,B.jsx)(tn,{style:{height:`2.5rem`,filter:`brightness(0) invert(1)`}})}),y=(0,B.jsx)(`p`,{style:{color:`#8BA6BC`,fontSize:`0.875rem`,lineHeight:1.7,marginBottom:`1.5rem`},children:`India's most trusted platform for Satta Matka. Play responsibly with guaranteed payouts and 24/7 support.`}),b={display:`flex`,alignItems:`center`,gap:`0.75rem`},t[11]=v,t[12]=y,t[13]=b):(v=t[11],y=t[12],b=t[13]);let x;t[14]===c?x=t[15]:(x=fr.map(e=>(0,B.jsx)(`a`,{href:e.label===`WhatsApp`?c:e.href,target:`_blank`,rel:`noopener noreferrer`,style:{width:`2.5rem`,height:`2.5rem`,borderRadius:`0.75rem`,background:`#1A2330`,display:`flex`,alignItems:`center`,justifyContent:`center`,color:`#8BA6BC`,transition:`all 0.3s`},"

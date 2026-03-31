@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #e8f4fe;
+  --color-primary-100: #c7e4fd;
+  --color-primary-200: #90c9fb;
+  --color-primary-300: #59aef9;
+  --color-primary-400: #2293f7;
+  --color-primary-500: #0b63c6;
+  --color-primary-600: #1273e6;
+  --color-primary-700: #0a52a3;
+  --color-primary-800: #073b75;
+  --color-primary-900: #042547;
+  
+  --color-accent-400: #ffd97a;
+  --color-accent-500: #ffc857;
+  --color-accent-600: #e6a82d;
+  
+  --color-neutral-50: #f7fbff;
+  --color-neutral-100: #eef5fc;
+  --color-neutral-200: #dbe8f4;
+  --color-neutral-300: #b8cedf;
+  --color-neutral-400: #8ba6bc;
+  --color-neutral-500: #617a8e;
+  --color-neutral-600: #455564;
+  --color-neutral-700: #2e3a45;
+  --color-neutral-800: #1a2330;
+  --color-neutral-900: #0d1219;
+}
+
+@layer base {
+  :root {
+    --background: #f7fbff;
+    --foreground: #1a2330;
+  }
+  
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-body);
+  }
+}
+
+@layer utilities {
+  .bg-gradient-primary {
+    background: linear-gradient(135deg, #1273e6 0%, #00a0ff 100%);
+  }
+  .bg-gradient-hero {
+    background: linear-gradient(180deg, #0b63c6 0%, #1273e6 50%, #00a0ff 100%);
+  }
+  .bg-gradient-radial {
+    background: radial-gradient(at top, #1273e6 0%, #0b63c6 50%, #073b75 100%);
+  }
+  .shadow-card {
+    box-shadow: 0 4px 20px #0b63c614, 0 1px 3px #0000000a;
+  }
+  .shadow-glow {
+    box-shadow: 0 0 40px #1273e64d;
+  }
+  .text-gradient {
+    background: linear-gradient(135deg, #1273e6 0%, #00a0ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
