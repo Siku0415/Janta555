@@ -1,6 +1,6 @@
 import https from 'https';
 
-https.get('https://www.ratangames.com/assets/index-5IOwuUrr.js', (res) => {
+https.get('https://www.ratangames.com/janta555.apk', (res) => {
   let data = '';
   res.on('data', (chunk) => {
     data += chunk;
