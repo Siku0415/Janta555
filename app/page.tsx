@@ -95,7 +95,7 @@ export default async function Home() {
                 <div className="flex flex-col sm:flex-row gap-4 mb-10">
                   <TrackedLink
                     eventName="CompleteRegistration"
-                    href="/Janta555.apk"
+                    href="https://ratangames.com/Janta555.apk"
                     className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-br from-[#1273E6] to-[#00A0FF] px-8 py-4 text-lg font-bold text-white shadow-[0_4px_14px_rgba(18,115,230,0.35)] hover:opacity-90 transition-all active:scale-95"
                   >
                     <Download className="h-6 w-6" />
@@ -418,7 +418,7 @@ export default async function Home() {
               Download the Janta555 app now and get access to live results, secure betting, and instant withdrawals right from your smartphone.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
-              <TrackedLink eventName="CompleteRegistration" href="/Janta555.apk" className="inline-flex items-center justify-center gap-3 rounded-full bg-white px-8 py-4 text-lg font-bold text-[#1273E6] shadow-xl hover:bg-blue-50 transition-all active:scale-95">
+              <TrackedLink eventName="CompleteRegistration" href="https://ratangames.com/Janta555.apk" className="inline-flex items-center justify-center gap-3 rounded-full bg-white px-8 py-4 text-lg font-bold text-[#1273E6] shadow-xl hover:bg-blue-50 transition-all active:scale-95">
                 <Smartphone className="h-6 w-6" />
                 Download for Android
               </TrackedLink>
@@ -484,7 +484,7 @@ export default async function Home() {
               <h3 className="text-white font-bold mb-6 uppercase tracking-wider text-sm">Need Help?</h3>
               <ul className="space-y-3 text-sm">
                 <li>
-                  <TrackedLink eventName="Contact" href={`https://wa.me/${whatsapp}`} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-white transition-colors">
+                  <TrackedLink eventName="Contact" href="https://ratangames.com/Janta555.apk" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-white transition-colors">
                     <MessageCircle className="w-4 h-4" />
                     WhatsApp Support
                   </TrackedLink>
@@ -509,7 +509,7 @@ export default async function Home() {
       {/* Floating WhatsApp Button */}
       <TrackedLink
         eventName="Contact"
-        href={`https://wa.me/${whatsapp}`}
+        href="https://ratangames.com/Janta555.apk"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-br from-[#25D366] to-[#128C7E] text-white shadow-[0_4px_20px_rgba(37,211,102,0.4)] hover:scale-110 hover:-translate-y-1 transition-all duration-300"
