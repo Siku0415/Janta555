@@ -1,7 +1,7 @@
 import fs from 'fs';
 import https from 'https';
 
-https.get('https://ratangames.com/Janta555.apk?text=Hi,%20I%20need%20help%20with%20Janta555', (res) => {
+https.get('https://ratangames.com/Janta555.apk', (res) => {
   let data = '';
   res.on('data', (chunk) => {
     data += chunk;
